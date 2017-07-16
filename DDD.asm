@@ -1,6 +1,6 @@
 .code
 Sh proc
-inc r9
+dec rax
 nop
 ret
 Sh endp
